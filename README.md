@@ -14,12 +14,12 @@
 
 ## 🙋 About Me
 
-```yaml
-name       : TroTro
-location   : France 🇫🇷
-status     : High School Student 🎓
-passion    : Competitive Super Smash Bros. Ultimate 🥊
-```
+| | |
+|---|---|
+| 👤 **Name** | TroTro |
+| 📍 **Location** | France 🇫🇷 |
+| 🎓 **Status** | High School Student |
+| 💻 **Learning** | Game Development |
 
 ---
 
