@@ -18,7 +18,6 @@
 name       : TroTro
 location   : France 🇫🇷
 status     : High School Student 🎓
-passion    : Competitive Super Smash Bros. Ultimate 🥊
 ```
 
 ---
